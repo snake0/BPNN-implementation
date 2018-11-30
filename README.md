@@ -1,6 +1,7 @@
 # BPNN-implementation
 
 ## 实现细节
+环境：macOS 10.14.1, PyCharm Professional
 
 这次作业实现了一个有 M 维输入层、 N 维输出层， K个维数不同的隐藏层的神经网络。（M、N、K均任意）
 
